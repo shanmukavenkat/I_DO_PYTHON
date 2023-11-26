@@ -17,3 +17,4 @@ if list_1 == list_2:
     print("Yes")
 else:
     print("No")
+## ~~~SNVSKOMAL

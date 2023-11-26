@@ -16,6 +16,7 @@ nums = list(map(int,input().split()))
 random_num = int(input())
 first_num = nums[random_num:]
 second_num = nums[:-random_num]
-print(first_num)
-print(second_num)
+print(convert_string(first_num))
+print(convert_string(second_num))
+
 

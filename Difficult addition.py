@@ -1,5 +1,5 @@
 # 123 123 --> does not include carry which is easy to add
-# 456 678 --> which include carry  which is difficult to add
+# 456 678 --> which include carry  which is difficult to add ~~SNVSKOMAL
 
 num = input().split()
 

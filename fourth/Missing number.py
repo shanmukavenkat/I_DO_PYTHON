@@ -1,6 +1,7 @@
 ##---<><><><><><><<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><--
 #here the input is given like integers in that some are missing
 #and the output should be like the missing integers
+#Sample Input
 ##---<><><><><><><<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><--
 
 s = list(map(int, input().split()))

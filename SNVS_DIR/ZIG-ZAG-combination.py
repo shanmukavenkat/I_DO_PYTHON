@@ -39,7 +39,4 @@ def main():
     positions = get_positions(pattern,len(s))
     new_word = get_reordered_word(s,positions,n)
     print(new_word)
-
-
-
 main()

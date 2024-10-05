@@ -1,4 +1,5 @@
 a = int(input())
 
 for i in range(a):
-    print(" "*i+"* "*(a-i))
+    if i == 1:
+        print()

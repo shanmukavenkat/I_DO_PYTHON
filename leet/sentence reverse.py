@@ -5,3 +5,4 @@ word = ""
 for i in k:
     word += i+" "
 print(word)
+
